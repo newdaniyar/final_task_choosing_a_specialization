@@ -1,0 +1,15 @@
+C:\Users\Настя\Desktop\daniyar\Lessons\final_task_choosing_a_specialization\bin\Debug\net6.0\final_task_choosing_a_specialization.exe
+C:\Users\Настя\Desktop\daniyar\Lessons\final_task_choosing_a_specialization\bin\Debug\net6.0\final_task_choosing_a_specialization.deps.json
+C:\Users\Настя\Desktop\daniyar\Lessons\final_task_choosing_a_specialization\bin\Debug\net6.0\final_task_choosing_a_specialization.runtimeconfig.json
+C:\Users\Настя\Desktop\daniyar\Lessons\final_task_choosing_a_specialization\bin\Debug\net6.0\final_task_choosing_a_specialization.dll
+C:\Users\Настя\Desktop\daniyar\Lessons\final_task_choosing_a_specialization\bin\Debug\net6.0\final_task_choosing_a_specialization.pdb
+C:\Users\Настя\Desktop\daniyar\Lessons\final_task_choosing_a_specialization\obj\Debug\net6.0\final_task_choosing_a_specialization.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\daniyar\Lessons\final_task_choosing_a_specialization\obj\Debug\net6.0\final_task_choosing_a_specialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настя\Desktop\daniyar\Lessons\final_task_choosing_a_specialization\obj\Debug\net6.0\final_task_choosing_a_specialization.AssemblyInfoInputs.cache
+C:\Users\Настя\Desktop\daniyar\Lessons\final_task_choosing_a_specialization\obj\Debug\net6.0\final_task_choosing_a_specialization.AssemblyInfo.cs
+C:\Users\Настя\Desktop\daniyar\Lessons\final_task_choosing_a_specialization\obj\Debug\net6.0\final_task_choosing_a_specialization.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\daniyar\Lessons\final_task_choosing_a_specialization\obj\Debug\net6.0\final_task_choosing_a_specialization.dll
+C:\Users\Настя\Desktop\daniyar\Lessons\final_task_choosing_a_specialization\obj\Debug\net6.0\refint\final_task_choosing_a_specialization.dll
+C:\Users\Настя\Desktop\daniyar\Lessons\final_task_choosing_a_specialization\obj\Debug\net6.0\final_task_choosing_a_specialization.pdb
+C:\Users\Настя\Desktop\daniyar\Lessons\final_task_choosing_a_specialization\obj\Debug\net6.0\final_task_choosing_a_specialization.genruntimeconfig.cache
+C:\Users\Настя\Desktop\daniyar\Lessons\final_task_choosing_a_specialization\obj\Debug\net6.0\ref\final_task_choosing_a_specialization.dll
